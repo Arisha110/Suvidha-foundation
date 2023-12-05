@@ -45,10 +45,12 @@ img {
   font-family: 'Libre Franklin', sans-serif;
 }
 
+
 figure {
   margin: 0;
 }
 @media (max-width:455px) {
+  
   .heading {
       font-size: 1.5rem;
   }
